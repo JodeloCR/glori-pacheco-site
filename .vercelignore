@@ -1,0 +1,6 @@
+tmp/
+tools/
+qa/
+qa-*.png
+qa-*.jpg
+*.log
